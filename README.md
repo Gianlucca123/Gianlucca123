@@ -4,7 +4,7 @@ My name is Gianlucca and I am studying eletronic engineering at UTFPR (FEDERAL U
 
 My major interest is in Data Science, electronics, programming and, computational intelligence.
 
-Feel free to see my projects of Data Science and Machine Learning: 
+Feel free to see my projects of Data Science and Machine Learning: https://bit.ly/3r5mkJF
 
 
 <!--
