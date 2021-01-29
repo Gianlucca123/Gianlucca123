@@ -6,6 +6,11 @@ My major interest is in Data Science, electronics, programming and, computationa
 
 Feel free to see my projects of Data Science and Machine Learning: https://bit.ly/3r5mkJF
 
+# Links
+
+- [Linkedin]()
+- [Medium]()
+
 
 <!--
 **Gianlucca123/Gianlucca123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
