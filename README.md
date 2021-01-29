@@ -8,8 +8,8 @@ Feel free to see my projects of Data Science and Machine Learning: https://bit.l
 
 # Links
 
-- [Linkedin]()
-- [Medium]()
+- [Linkedin](https://www.linkedin.com/in/gianlucca-fiori-oliveira-5080bb204/)
+- [Medium](https://gianlucca-oliveira123.medium.com/)
 
 
 <!--
