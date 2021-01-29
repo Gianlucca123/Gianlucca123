@@ -6,7 +6,7 @@ My major interest is in Data Science, electronics, programming and, computationa
 
 Feel free to see my projects of Data Science and Machine Learning: https://bit.ly/3r5mkJF
 
-# Links
+**Links**
 
 - [Linkedin](https://www.linkedin.com/in/gianlucca-fiori-oliveira-5080bb204/)
 - [Medium](https://gianlucca-oliveira123.medium.com/)
