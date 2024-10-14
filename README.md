@@ -2,7 +2,7 @@
 
 My name is Gianlucca and I am studying eletronic engineering at UTFPR (FEDERAL UNIVERSITY OF TECHNOLOGY–PARANÁ –BRAZIL).
 
-My major interest is in Embedded System, electronics, competitive programming and, computational intelligence.
+My major interest is in Embedded System, electronics and competitive programming.
 
 Feel free to see my projects of Data Science and Machine Learning: https://bit.ly/3r5mkJF
 
